@@ -1,0 +1,1 @@
+This is the web-development project using the html and css. This project is designed to gain hands-on knowledge of the html and css .How the html and css works together and how we can connect the external  css file to the html file. 
